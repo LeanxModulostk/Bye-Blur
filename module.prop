@@ -1,7 +1,7 @@
 id=ByeBlur
 name=Bye Blur
-version=v3
-versionCode=3
+version=v4
+versionCode=4
 author=@LeanHijosdesusMadres × @nonosvaimos
 description=Disable the blur effect, this improves performance by discarding this complex visual effect.
 support=https://t.me/modulostk
