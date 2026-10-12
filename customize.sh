@@ -12,7 +12,7 @@ ui_print "▒█▀▀█ █░░█ █▀▀ 　 █▀▀▄ █░░ █�
 ui_print "▒█▀▀▄ █▄▄█ █▀▀ 　 █▀▀▄ █░░ █░░█ █▄▄▀ "
 ui_print "▒█▄▄█ ▄▄▄█ ▀▀▀ 　 ▀▀▀░ ▀▀▀ ░▀▀▀ ▀░▀▀ "
 ui_print ""
-ui_print " Gracias a @nonosvaimos"
+ui_print "By @LeanHijosdesusMadres"
 ui_print "" 
 
 ##########################################################################################
