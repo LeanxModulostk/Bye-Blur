@@ -1,10 +1,11 @@
 id=ByeBlur
 name=Bye Blur
-version=v6
-versionCode=6
+version=v8
+versionCode=8
 author=@LeanHijosdesusMadres
 description=Disable the blur effect, this improves performance by discarding this complex visual effect.
 support=https://t.me/modulostk
-banner=/leanbanner.jpg
+banner=leanbanner.jpg
 updateJson=https://raw.githubusercontent.com/LeanxModulostk/Bye-Blur/master/module.json
 actionIcon=lean.jpg
+donate=https://www.paypal.me/LeanHijosdesusMadres
