@@ -45,7 +45,6 @@ windowBlurBehindRadius=0
 ro.surface_flinger.force_disable_blur=1
 persist.sys.enable_third_blur=0
 persist.sys.dynamic_blur_enabled=0
-
 # More blurring
 persist.sys.background_blur_mode=0
 #debug.renderengine.blur_algorithm=none

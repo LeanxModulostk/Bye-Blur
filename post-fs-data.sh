@@ -1,5 +1,4 @@
 #!/system/bin/sh
-
 #Bye Blur
 resetprop -n ro.launcher.blur.appLaunch 0
 resetprop -n ro.surface_flinger.supports_background_blur 0
@@ -47,7 +46,6 @@ resetprop -n windowBlurBehindRadius 0
 resetprop -n ro.surface_flinger.force_disable_blur 1
 resetprop -n persist.sys.enable_third_blur 0
 resetprop -n persist.sys.dynamic_blur_enabled 0
-
 # More blurring
 resetprop -n persist.sys.background_blur_mode 0
 #resetprop -n debug.renderengine.blur_algorithm none
@@ -56,11 +54,8 @@ resetprop -n persist.sys.advanced_visual_release 0
 resetprop -n persist.sys.background_blur_version 0
 resetprop -n persist.sys.mi_shadow_supported false
 resetprop -n debug.sysui.display_notification_shadow 0
-
 #
 su -c "cmd window disable-blur 1"
 su -c "wm disable-blur 1"
 su -c "settings put global disable_window_blurs 1"
-
 #t.me/modulostk
-#t.me/onfiretweaks
