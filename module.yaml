@@ -14,7 +14,7 @@ authors:
   - name: Lean
     url: https://github.com/LeanxModulostk
 compatibility:
-  androidMinApi: 1
+  androidMinApi: 21
   architectures: [arm64-v8a, armeabi-v7a, x86_64]
 release:
   assetPattern: "Bye.Blur-v*.zip"
